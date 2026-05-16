@@ -1,8 +1,8 @@
 # 存放题目数据集的目录
 questions/
 
-# 存放学长参考资料的目录
-dns-homework-reference/
+# 存放学长参考资料的目录（保留源码和文档）
+dns-homework-reference/ppt/
 
 # Obsidian相关
 .obsidian/
