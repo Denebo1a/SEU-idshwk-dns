@@ -3,3 +3,6 @@ questions/
 
 # 存放学长参考资料的目录
 dns-homework-reference/
+
+# Obsidian相关
+.obsidian/
